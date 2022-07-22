@@ -8,7 +8,8 @@
 - 📖 Full stack em formação na Kenzie Academy
 - 🤵 Ele/Dele
 - 🎮 About me:
-
+- 
+<br>
 ## 📈 Análise Github
 <div align="center">
   <a href="https://github.com/pablorzenha">
