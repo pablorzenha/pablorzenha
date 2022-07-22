@@ -1,4 +1,10 @@
-<img  alt="Rafa-pic"  style="border-radius:50px;" src="https://i.imgur.com/Bu3XSGw.png">
+# Olá, eu sou Pablo Araujo.
+
+- Atualmente: Sou gamer, produzo conteudo na Twitch e Peer Coach na Kenzie Academy
+- Acadêmico: Engenheiro Mecânico, Front-end e tecnico em informática.
+- Cursando: Desenvolvedor Full stack
+- Pronome: Ele/Dele
+- Sobre: Uma pessoa reservada apaixonada por tecnologia e focado em aprender novas linguagens e suas funcionalidades.
 
 <br>
 
