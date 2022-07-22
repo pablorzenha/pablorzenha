@@ -3,6 +3,7 @@ Olá ! Eu sou o Pablo Araujo.
 - 🔭 Sou Gamer, produzo conteudo na Twitch  e Peer coach na kenzie Academy.
 - 📖 Faço curso de Full-stack
 - 🤵 Ele/Dele
+- 🎮 About me:
 
 <div align="center">
   <a href="https://github.com/pablorzenha">
