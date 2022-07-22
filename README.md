@@ -1,11 +1,4 @@
-Versão lang = "pt-BR" 🇧🇷🇧🇷🇧🇷
-   
-   # Olá, Eu sou Pablo Araujo.
-   - 🔭 Sou Gamer, produzo conteudo na Twitch  e Peer coach na kenzie Academy.
-   - 📖 Engenheiro mecânico, Front-end, Tecnico em informatica.
-   - 📖 Full stack em formação na Kenzie Academy
-   - 🤵 Ele/Dele
-   - 🎮 Sobre:
+<img align="center" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://i.imgur.com/pB7jKC3.png">
 
 <br>
 
@@ -22,6 +15,8 @@ Versão lang = "pt-BR" 🇧🇷🇧🇷🇧🇷
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/2aDWueW.png">
+  
+  
 </div>
  <br>
   <br>
