@@ -9,7 +9,7 @@
 - 🤵 Ele/Dele
 - 🎮 About me:
 
-### 📈 Analise github
+### 📈 Análise Github
 <div align="center">
   <a href="https://github.com/pablorzenha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablorzenha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,7 +18,7 @@
   <br>
   <br>
   
-### 🛠 &nbsp;Tecnologias e ferramentas aprendidas
+### 🛠 Tecnologias e ferramentas aprendidas
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
