@@ -5,7 +5,7 @@
 
 
 - 🔭 Sou Gamer, produzo conteudo na Twitch  e Peer coach na kenzie Academy.
-- Engenheiro mecânico, Front-end, Tecnico em informatica.
+- 📖 Engenheiro mecânico, Front-end, Tecnico em informatica.
 - 📖 Full stack em formação na Kenzie Academy
 - 🤵 Ele/Dele
 - 🎮 About me:
