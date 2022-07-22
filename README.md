@@ -1,6 +1,5 @@
 
 # Olá, Eu sou Pablo Araujo.
-###### Hello, I'm Pablo Araujo<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 <br>
 
 
