@@ -1,4 +1,4 @@
-<img align="center" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://i.imgur.com/Hw7zlt4.png">
+<img  alt="Rafa-pic"  style="border-radius:50px;" src="https://i.imgur.com/Hw7zlt4.png">
 
 <br>
 
