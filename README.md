@@ -15,6 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablorzenha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorzenha&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  <br>
+  <br>
   
 ### 🛠 &nbsp;Tech Stack
 <div style="display: inline_block">
@@ -23,9 +25,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/2aDWueW.png">
 </div>
- 
+ <br>
+  <br>
   
-  ## 🖥️ Midia Social
+  ### 🖥️ Midia Social
 <div> 
   <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/pablo_araujo_/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="[https://www.twitch.tv/rafaballerinii](https://www.twitch.tv/pablorzenha)" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
