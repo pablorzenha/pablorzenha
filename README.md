@@ -17,11 +17,12 @@
    
 ## 🛠 Tecnologias e ferramentas aprendidas
 <div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/2aDWueW.png">
-  
+  <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pablo-CSS" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img align="center" alt="Pablo-CSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
+  <img align="right" alt="Pablo-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/2aDWueW.png">
   
 </div>
  <br>
