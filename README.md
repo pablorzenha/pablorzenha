@@ -4,7 +4,7 @@
 - Acadêmico: Engenheiro Mecânico, Front-end e tecnico em informática.
 - Cursando: Desenvolvedor Full stack
 - Pronome: Ele/Dele
-- Sobre: Uma pessoa reservada apaixonada por tecnologia e focado em aprender novas linguagens e suas funcionalidades.
+- Sobre: Uma pessoa reservada, apaixonada por tecnologia e focada em aprender novas linguagens e suas funcionalidades.
 
 <br>
 
