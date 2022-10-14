@@ -17,13 +17,16 @@
    
 ## 🛠 Tecnologias e ferramentas aprendidas
 <div>
-  <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pablo-c++" height="30" width="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pablo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Pablo-c++" height="30" width="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+  <img align="center" alt="Pablo-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Pablo-CSS" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
-  <img align="right" alt="Pablo-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/2aDWueW.png">
+  <img align="right" alt="Github" height="150" style="border-radius:50px;" src="https://i.imgur.com/2aDWueW.png">
   
 </div>
  <br>
