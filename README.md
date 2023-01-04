@@ -1,7 +1,7 @@
 # Olá, eu sou Pablo Araujo.
 
-- Atualmente: Sou gamer, produzo conteudo na Twitch e Peer Coach na Kenzie Academy
-- Acadêmico: Engenheiro Mecânico, Front-end e tecnico em informática.
+- Atualmente: Sou monitor de ensino na Kenzie Academy, produzo conteudo no Youtube com foco em resoluções codewars e gamer.
+- Acadêmico: Front-end, engenheiro mecânico e tecnico em informática.
 - Cursando: Desenvolvedor Full stack
 - Pronome: Ele/Dele
 - Sobre: Uma pessoa reservada, apaixonada por tecnologia e focada em aprender novas linguagens e suas funcionalidades.
