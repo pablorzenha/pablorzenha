@@ -1,8 +1,7 @@
 # Olá, eu sou Pablo Araujo.
 
-- Atualmente: Sou monitor de ensino na Kenzie Academy, produzo conteudo no Youtube com foco em resoluções codewars e gamer.
-- Acadêmico: Front-end, engenheiro mecânico e tecnico em informática.
-- Cursando: Desenvolvedor Full stack
+- Atualmente: Desenvolvedor .Net (D'Bragas IT)/ Instrutor Full Stack (Senac RJ).
+- Acadêmico: Engenheiro mecânico/ Desenvolvedor .NET / Instrutor.
 - Pronome: Ele/Dele
 - Sobre: Uma pessoa reservada, apaixonada por tecnologia e focada em aprender novas linguagens e suas funcionalidades.
 
