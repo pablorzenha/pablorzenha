@@ -1,7 +1,7 @@
 # Olá, eu sou Pablo Araujo.
 
-- Atualmente: Desenvolvedor .Net (D'Bragas IT)/ Instrutor Full Stack (Senac RJ).
-- Acadêmico: Engenheiro mecânico/ Desenvolvedor .NET / Instrutor.
+- Atualmente: Desenvolvedor .Net (Global Hitss)/ Instrutor Full Stack (Senac RJ).
+- Acadêmico: Analise de desenvolvimento de sistemas / Engenheiro mecânico.
 - Pronome: Ele/Dele
 - Sobre: Uma pessoa reservada, apaixonada por tecnologia e focada em aprender novas linguagens e suas funcionalidades.
 
